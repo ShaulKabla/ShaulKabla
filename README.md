@@ -1,4 +1,4 @@
-`![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello.+My+name+is+Shaul+Kabla.;A.K.A+WarCrew)`
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello.+My+name+is+Shaul+Kabla.;A.K.A+WarCrew)
 
 Enthusiastic and responsible cybersecurity student with a strong passion for technology.\
 fast learner, highly motivated with great social skills and technical proficiency.\
